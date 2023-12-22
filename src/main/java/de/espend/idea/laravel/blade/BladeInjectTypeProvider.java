@@ -19,7 +19,7 @@ import com.jetbrains.php.lang.psi.resolve.types.PhpTypeProvider3;
 import de.espend.idea.laravel.LaravelSettings;
 import de.espend.idea.laravel.blade.util.BladePsiUtil;
 import de.espend.idea.laravel.util.PsiElementUtils;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.Collection;

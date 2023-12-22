@@ -20,7 +20,7 @@ import de.espend.idea.laravel.blade.util.BladeTemplateUtil;
 import de.espend.idea.laravel.util.VfsExUtil;
 import de.espend.idea.laravel.view.dict.JsonTemplatePaths;
 import de.espend.idea.laravel.view.dict.TemplatePath;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 

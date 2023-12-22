@@ -16,7 +16,7 @@ import com.jetbrains.php.lang.psi.elements.StringLiteralExpression;
 import com.jetbrains.php.lang.psi.stubs.indexes.PhpConstantNameIndex;
 import de.espend.idea.laravel.LaravelProjectComponent;
 import gnu.trove.THashMap;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.HashSet;

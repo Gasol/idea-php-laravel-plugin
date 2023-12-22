@@ -6,7 +6,7 @@ import com.jetbrains.php.blade.psi.BladeDirectiveElementType;
 import com.jetbrains.php.blade.psi.BladePsiDirectiveParameter;
 import com.jetbrains.php.blade.psi.BladeTokenTypes;
 import de.espend.idea.laravel.util.PsiElementUtils;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.Map;
 

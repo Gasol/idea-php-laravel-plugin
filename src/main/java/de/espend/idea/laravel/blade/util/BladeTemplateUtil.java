@@ -25,7 +25,7 @@ import de.espend.idea.laravel.stub.BladeExtendsStubIndex;
 import de.espend.idea.laravel.util.PsiElementUtils;
 import de.espend.idea.laravel.view.ViewCollector;
 import de.espend.idea.laravel.view.dict.TemplatePath;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
